@@ -1,8 +1,14 @@
 #include <iostream>
+#include <cmath>
 
 #include "Enemy/Enemy.h"
 #include "Player/Player.h"
 #include "Weapon/Weapon.h"
+
+void Get_RandomNo()
+{
+	std::cout << "Let's Assume getting a random No in main branch ... !" << std::endl;
+}
 
 int main()
 {
