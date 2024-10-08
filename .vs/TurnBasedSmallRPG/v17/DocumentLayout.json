@@ -3,12 +3,20 @@
   "WorkspaceRootPath": "D:\\Git_Repos\\TurnBasedSmallRPG\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{91990F8C-FAF3-457D-8615-4CA9F694B69E}|TurnBasedSmallRPG.vcxproj|D:\\Git_Repos\\TurnBasedSmallRPG\\TurnBasedSmallRPG.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{91990F8C-FAF3-457D-8615-4CA9F694B69E}|TurnBasedSmallRPG.vcxproj|solutionrelative:TurnBasedSmallRPG.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91990F8C-FAF3-457D-8615-4CA9F694B69E}|TurnBasedSmallRPG.vcxproj|D:\\Git_Repos\\TurnBasedSmallRPG\\Weapon\\Weapon.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{91990F8C-FAF3-457D-8615-4CA9F694B69E}|TurnBasedSmallRPG.vcxproj|solutionrelative:Weapon\\Weapon.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{91990F8C-FAF3-457D-8615-4CA9F694B69E}|TurnBasedSmallRPG.vcxproj|D:\\Git_Repos\\TurnBasedSmallRPG\\Player\\Player.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{91990F8C-FAF3-457D-8615-4CA9F694B69E}|TurnBasedSmallRPG.vcxproj|solutionrelative:Player\\Player.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{91990F8C-FAF3-457D-8615-4CA9F694B69E}|TurnBasedSmallRPG.vcxproj|D:\\Git_Repos\\TurnBasedSmallRPG\\TurnBasedSmallRPG.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{91990F8C-FAF3-457D-8615-4CA9F694B69E}|TurnBasedSmallRPG.vcxproj|solutionrelative:TurnBasedSmallRPG.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{91990F8C-FAF3-457D-8615-4CA9F694B69E}|TurnBasedSmallRPG.vcxproj|D:\\Git_Repos\\TurnBasedSmallRPG\\Enemy\\Enemy.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{91990F8C-FAF3-457D-8615-4CA9F694B69E}|TurnBasedSmallRPG.vcxproj|solutionrelative:Enemy\\Enemy.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,28 +26,62 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
+              "Title": "Weapon.h",
+              "DocumentMoniker": "D:\\Git_Repos\\TurnBasedSmallRPG\\Weapon\\Weapon.h",
+              "RelativeDocumentMoniker": "Weapon\\Weapon.h",
+              "ToolTip": "D:\\Git_Repos\\TurnBasedSmallRPG\\Weapon\\Weapon.h",
+              "RelativeToolTip": "Weapon\\Weapon.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-08T11:24:34.497Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Enemy.h",
+              "DocumentMoniker": "D:\\Git_Repos\\TurnBasedSmallRPG\\Enemy\\Enemy.h",
+              "RelativeDocumentMoniker": "Enemy\\Enemy.h",
+              "ToolTip": "D:\\Git_Repos\\TurnBasedSmallRPG\\Enemy\\Enemy.h",
+              "RelativeToolTip": "Enemy\\Enemy.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-08T11:24:18.046Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Player.h",
               "DocumentMoniker": "D:\\Git_Repos\\TurnBasedSmallRPG\\Player\\Player.h",
               "RelativeDocumentMoniker": "Player\\Player.h",
               "ToolTip": "D:\\Git_Repos\\TurnBasedSmallRPG\\Player\\Player.h",
               "RelativeToolTip": "Player\\Player.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2024-10-08T11:23:54.113Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "TurnBasedSmallRPG.cpp",
               "DocumentMoniker": "D:\\Git_Repos\\TurnBasedSmallRPG\\TurnBasedSmallRPG.cpp",
               "RelativeDocumentMoniker": "TurnBasedSmallRPG.cpp",

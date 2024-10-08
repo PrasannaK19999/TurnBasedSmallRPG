@@ -7,7 +7,7 @@
 
 void Get_RandomNo()
 {
-	std::cout << "Let's Assume getting a random No in main branch ... !" << std::endl;
+	std::cout << "Let's Assume getting a random No in main branch ..... !" << std::endl;
 }
 
 int main()
