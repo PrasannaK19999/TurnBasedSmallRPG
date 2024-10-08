@@ -5,6 +5,11 @@
 #include "Player/Player.h"
 #include "Weapon/Weapon.h"
 
+void Get_RandomNo()
+{
+	std::cout << "Let's Assume getting a random No in Feature branch ... !" << std::endl;
+}
+
 int main()
 {
 	std::cout << "Let's  the Game Begin... \n" << std::endl;
